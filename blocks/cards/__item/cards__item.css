@@ -1,0 +1,9 @@
+.cards__item {
+  position: relative;
+  transition: .3s ease-in-out;
+}
+
+.cards__item:hover {
+  transform: scale(1.01);
+  opacity: .6;
+}

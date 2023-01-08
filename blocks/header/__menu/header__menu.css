@@ -1,0 +1,8 @@
+.header__menu {
+  cursor: pointer;
+  transition: .3s ease-in-out;
+}
+
+.header__menu:hover {
+  opacity: .6;
+}

@@ -1,0 +1,8 @@
+.header__arrows-link {
+  cursor: pointer;
+  transition: .3s ease-in-out;
+}
+
+.header__arrows-link:hover {
+  opacity: .6;
+}

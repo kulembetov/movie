@@ -1,0 +1,5 @@
+.header__notification_active {
+  background-image: url('../../../../images/new_notification.svg');
+  background-repeat: no-repeat;
+  background-position: top right;
+}

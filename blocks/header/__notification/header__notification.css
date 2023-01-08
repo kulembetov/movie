@@ -1,0 +1,8 @@
+.header__notification {
+  cursor: pointer;
+  transition: .3s ease-in-out;
+}
+
+.header__notification:hover {
+  opacity: .6;
+}

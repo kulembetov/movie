@@ -1,0 +1,8 @@
+.header__arrows {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  text-decoration: none;
+  padding-left: 120px;
+  padding-right: 100px;
+}

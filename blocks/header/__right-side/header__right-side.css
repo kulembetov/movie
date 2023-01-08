@@ -1,0 +1,7 @@
+.header__right-side {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  position: absolute;
+  right: 50px;
+}

@@ -1,0 +1,12 @@
+.header__search {
+  position: absolute;
+  top: 50px;
+  left: 365px;
+  padding-left: 70px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.header__search:hover {
+  opacity: 0.6;
+}

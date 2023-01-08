@@ -1,0 +1,8 @@
+.header__avatar {
+  cursor: pointer;
+  transition: .3s ease-in-out;
+}
+
+.header__avatar:hover {
+  opacity: .6;
+}
