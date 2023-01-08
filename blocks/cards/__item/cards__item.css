@@ -4,6 +4,5 @@
 }
 
 .cards__item:hover {
-  transform: scale(1.01);
-  opacity: .6;
+  transform: scale(1.05);
 }

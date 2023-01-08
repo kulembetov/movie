@@ -1,0 +1,11 @@
+.left-menu__categorie-title {
+  color: #6c6c6c;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 11px;
+  letter-spacing: 5%;
+  transition: 0.3s ease-in-out;
+  margin-top: 100px;
+  margin-left: 40px;
+}

@@ -1,6 +1,9 @@
 .header {
+  width: 1900px;
+  background-color: #1E1E1E;
   display: flex;
-  padding-top: 30px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 3;
 }

@@ -1,9 +1,8 @@
 .left-menu {
-  background-color: #151515;
+  background-color: #1E1E1E;
   width: 229px;
   height: 1100px;
   position: fixed;
   top: 0;
   left: 0;
-  z-index: -1;
 }

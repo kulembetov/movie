@@ -6,6 +6,15 @@
 @import url('../blocks/header/__input/header__input.css');
 @import url('../blocks/header/__search/header__search.css');
 @import url('../blocks/left-menu/left-menu.css');
+@import url('../blocks/left-menu/__image/left-menu__image.css');
+@import url('../blocks/left-menu/__title/left-menu__title.css');
+@import url('../blocks/left-menu/__item/left-menu__item.css');
+@import url('../blocks/left-menu/__list/left-menu__list.css');
+@import url('../blocks/left-menu/__categories/left-menu__categories.css');
+@import url('../blocks/left-menu/__categorie/left-menu__categorie.css');
+@import url('../blocks/left-menu/__categorie-link/left-menu__categorie-link.css');
+@import url('../blocks/left-menu/__categorie-title/left-menu__categorie-title.css');
+@import url('../blocks/left-menu/__categorie-name/left-menu__categorie-name.css');
 @import url('../blocks/header/__notification/header__notification.css');
 @import url('../blocks/header/__notification/_active/header__notification_active.css');
 @import url('../blocks/header/__avatar/header__avatar.css');

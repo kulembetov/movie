@@ -1,0 +1,12 @@
+.left-menu__title {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 10px;
+  color: #fff;
+  transition: .3s ease-in-out;
+}
+
+.left-menu__title:hover {
+  transform: scale(1.1);
+}

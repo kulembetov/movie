@@ -1,0 +1,13 @@
+.left-menu__categorie-name {
+  color: #888;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 11px;
+  letter-spacing: 5%;
+  transition: .3s ease-in-out;
+}
+
+.left-menu__categorie-name:hover {
+  transform: scale(1.3);
+}
