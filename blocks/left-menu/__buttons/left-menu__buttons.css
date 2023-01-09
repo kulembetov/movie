@@ -1,0 +1,8 @@
+.left-menu__buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  position: fixed;
+  bottom: 10px;
+  margin-top: 50px;
+}

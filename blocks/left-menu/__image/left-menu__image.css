@@ -1,4 +1,7 @@
 .left-menu__image {
+  width: 25px;
+  height: 25px;
+  align-self: center;
   cursor: pointer;
   transition: .3s ease-in-out;
 }

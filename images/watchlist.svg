@@ -1,3 +1,10 @@
-<svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M10 4.853C8 0.354167 1 0.833333 1 6.58336C1 12.3334 10 17.125 10 17.125C10 17.125 19 12.3334 19 6.58336C19 0.833333 12 0.354167 10 4.853Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<path style="fill:#00384E;" d="M310.624,0H64v512h384V137.376L310.624,0z M320,54.624L393.376,128H320V54.624z M96,480V32h192v128
+	h128v320H96z"/>
+<polygon style="fill:#72C6EF;" points="384,448 128,448 128,64 288,64 288,160 384,160 "/>
+<polygon style="fill:#00384D;" points="256,367.2 196.672,400 208,330.528 160,281.344 226.336,271.2 256,208 285.664,271.2 
+	352,281.344 304,330.528 315.328,400 "/>
 </svg>

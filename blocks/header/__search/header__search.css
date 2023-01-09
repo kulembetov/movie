@@ -1,7 +1,7 @@
 .header__search {
   position: absolute;
-  top: 34px;
-  left: 345px;
+  top: 33px;
+  left: 355px;
   padding-left: 70px;
   cursor: pointer;
   transition: 0.3s ease-in-out;

@@ -1,4 +1,7 @@
 .cards__movie {
+  width: 402px;
+  height: 281px;
+  border-radius: 13px;
   position: absolute;
   top: 0;
   left: 302px;
