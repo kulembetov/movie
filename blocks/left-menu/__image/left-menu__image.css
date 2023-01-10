@@ -5,7 +5,3 @@
   cursor: pointer;
   transition: .3s ease-in-out;
 }
-
-.left-menu__image:hover {
-  opacity: .6;
-}

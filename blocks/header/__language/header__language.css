@@ -1,0 +1,15 @@
+.header__language {
+  background-color: transparent;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 11px;
+  color: #707070;
+  border: none;
+  outline: none;
+  transition: 0.3s ease-in-out;
+}
+
+.header__language:hover {
+  opacity: 0.6;
+}

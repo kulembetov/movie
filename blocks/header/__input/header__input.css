@@ -1,6 +1,6 @@
 .header__input {
-  width: 347px;
-  height: 41px;
+  width: 400px;
+  height: 40px;
   font-family: 'Inter';
   font-weight: 300;
   font-size: 15px;
@@ -16,6 +16,8 @@
   text-align: center;
   overflow: hidden;
   text-overflow: ellipsis;
+  margin-left: 100px;
+  margin-right: 50px;
 }
 
 .header__input:hover {

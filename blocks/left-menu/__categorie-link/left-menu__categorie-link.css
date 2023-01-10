@@ -2,7 +2,3 @@
   text-decoration: none;
   transition: .3s ease-in-out;
 }
-
-.left-menu__categorie-link:hover {
-  opacity: .6;
-}

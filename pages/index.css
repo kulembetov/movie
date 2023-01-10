@@ -18,6 +18,9 @@
 @import url('../blocks/left-menu/__buttons/left-menu__buttons.css');
 @import url('../blocks/left-menu/__buttons/__buttons-signup/left-menu__buttons-signup.css');
 @import url('../blocks/left-menu/__buttons/__buttons-login/left-menu__buttons-login.css');
+@import url('../blocks/header/__languages/header__languages.css');
+@import url('../blocks/header/__language/header__language.css');
+@import url('../blocks/header/__language/_active/header__language_active.css');
 @import url('../blocks/header/__notification/header__notification.css');
 @import url('../blocks/header/__notification/_active/header__notification_active.css');
 @import url('../blocks/header/__avatar/header__avatar.css');
